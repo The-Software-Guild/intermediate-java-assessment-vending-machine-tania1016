@@ -1,0 +1,18 @@
+
+package com.tania.vendingmachine.service;
+
+/**
+ * @author Tania
+ */
+public class VendingMachineDuplicateIdException extends Exception {
+
+    public VendingMachineDuplicateIdException(String message) {
+
+        super(message);
+    }
+
+    public VendingMachineDuplicateIdException(String message, Throwable cause) {
+
+        super(message, cause);
+    }
+}

@@ -1,0 +1,2 @@
+1,Snickers Bar,0.99,12
+2,CocaCola,1.99,14
