@@ -1,0 +1,9 @@
+1,Snickers Bar,0.99,10
+2,CocaCola,1.99,14
+3,abc,1.98,7
+4,Canada Dry,2.49,5
+5,Potato Chip,3.49,96
+6,Pepsi,1.99,5
+7,Cheetos,2.99,10
+8,Mountain Dew,5.99,12
+9,Gum,0.49,7
